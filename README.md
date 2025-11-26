@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# pydictionary
-📚 Python Dictionary App | Tkinter GUI  🚀 Overview: A lightweight, Python-based dictionary application featuring a Tkinter GUI for smooth, fast, and user-friendly word lookup. Perfect for learners, developers, and anyone who loves exploring words!
+
 =======
 # Python Dict 🧠
 
@@ -106,4 +104,4 @@ Remember to update the words.json file and commit your changes.
 ## 📄 License
 
 This project is released under the MIT License — free to use, modify, and distribute.
->>>>>>> c48cd6e (Initial commit – Python Tkinter dictionary project)
+
