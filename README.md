@@ -1,10 +1,8 @@
-
-=======
 # Python Dict 🧠
 
 A lightweight graphical dictionary tool for French/English words built with Tkinter.
 
-**GitHub Repository:** []()
+**GitHub Repository:** [https://github.com/danialsource/Dictionarypy](https://github.com/danialsource/Dictionarypy)
 
 ---
 
