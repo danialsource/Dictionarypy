@@ -21,7 +21,7 @@ A lightweight graphical dictionary tool for French/English words built with Tkin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/danialsource/dictionary-py.git
+   git clone https://github.com/danialsource/dictionarypy.git
    ```
 2. Navigate to the project folder:
 
