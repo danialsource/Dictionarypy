@@ -21,12 +21,12 @@ A lightweight graphical dictionary tool for French/English words built with Tkin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/danialsource/dictionarypy.git
+   git clone https://github.com/danialsource/Dictionarypy.git
    ```
 2. Navigate to the project folder:
 
    ```bash
-   cd python-dict
+   cd Dictionarypy
    ```
 3. Run the main program:
 
