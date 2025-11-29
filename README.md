@@ -1,4 +1,4 @@
-# Python Dict 🧠
+# Python Dictionary 🧠
 
 A lightweight graphical dictionary tool for French/English words built with Tkinter.
 
